@@ -1,0 +1,16 @@
+{
+	"name": "Norega",
+	"short_name": "Norega",
+	"description": "RPG-IDLE GAME",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "51x56",
+			"type": "image/png"
+		}
+	]
+}
